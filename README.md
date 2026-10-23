@@ -40,7 +40,7 @@ Tkinter and SQLite are included with many standard Python installations. No addi
 1. Clone this repository:
 
    ```bash
-   git clone <Yomal-2004/contact-management-system>
+   git clone Yomal-2004/contact-management-system
    ```
 
 2. Navigate to the project directory:
